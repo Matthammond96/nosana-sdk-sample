@@ -10,8 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@nosana/sdk": "^0.3.55",
-    "base58-js": "^2.0.0",
-    "express": "^4.21.2"
+    "@nosana/sdk": "^0.3.55"
   }
 }
